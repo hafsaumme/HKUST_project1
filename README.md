@@ -1,1 +1,1 @@
-# project1: Job scope
+Jobscope: job searching and posting hub
