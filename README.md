@@ -1,1 +1,1 @@
-### Jobscope: job searching and posting hub
+### Jobscope: a job searching and posting hub
